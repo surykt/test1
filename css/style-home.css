@@ -1,7 +1,10 @@
 #banner {
     width: 100%;
 }
-
+.principal{
+    background: #cccccc; 
+    padding: 30px;
+}
 
 .titulo-principal{
     padding-left: 20px;
